@@ -48,7 +48,7 @@ You can get the `hostName` from Proxyman -> Certificate menu -> Install for iOS 
 <img src="https://raw.githubusercontent.com/ProxymanApp/atlantis/main/images/atlantis_hostname.png" alt="Proxyman screenshot" width="70%" height="auto"/>
 
 2. Make sure your iOS devices/simulator and macOS Proxyman are in the **same Wifi Network** or connect your iOS Devices to Mac by a **USB cable**
-3. Open macOS [Proxyman](https://proxyman.io) (or [download the lasted here](https://proxyman.io/release/osx/Proxyman_latest.dmg)) ([Github](https://github.com/ProxymanApp/Proxyman))(2.11.0+)
+3. Open macOS [Proxyman](https://proxyman.io) (or [download the latest here](https://proxyman.io/release/osx/Proxyman_latest.dmg)) ([Github](https://github.com/ProxymanApp/Proxyman))(2.11.0+)
 4. Open your iOS app and Inspect traffic logs from Proxyman app
 5. Enjoy debugging ❤️
 
